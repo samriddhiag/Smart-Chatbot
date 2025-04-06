@@ -1,9 +1,4 @@
-# TEAM-A6
-# LINE OF BUSINESS : CLT
-# GROUP NO : 1
-# CUSTOMER EMOTION DETECTION
-
-Demo Content
+### Steps to run:
 
 ## Front-end
 
