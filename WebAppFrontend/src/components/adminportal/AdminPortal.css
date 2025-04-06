@@ -1,0 +1,33 @@
+.leftbar {
+    float: left;
+    width: 20%;
+  }
+  
+  .mainbar {
+    float: left;
+    width: 80%;
+  }
+  .leftbar {
+    /* background-color: #EFFCF8; */
+    height: inherit;
+  }
+  
+  .custApp {
+    text-align: center;
+    /* background-color: aqua; */
+    width: 100vw;
+  }
+  
+  .profileImage {
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 40px 30px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+  }
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }

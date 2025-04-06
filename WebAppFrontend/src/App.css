@@ -1,0 +1,11 @@
+.App {
+  display: block;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.visibilityAdder {
+  visibility: hidden;
+}

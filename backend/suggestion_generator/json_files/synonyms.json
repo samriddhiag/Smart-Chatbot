@@ -1,0 +1,464 @@
+{ 
+    "entities": [
+    {
+      "entity": "quantity",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "moretwo",
+          "synonyms": [
+            "2 or more",
+            "greater than 2",
+            "greater than two",
+            "more than 2",
+            "more than two",
+            "two or more"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "features",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "filter",
+          "synonyms": [
+            "filter"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "search",
+          "synonyms": [
+            "search"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "coupon",
+          "synonyms": [
+            "coupon",
+            "coupons"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "service",
+          "synonyms": [
+            "features",
+            "services"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "discount",
+          "synonyms": [
+            "discount",
+            "discounts"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "offer",
+          "synonyms": [
+            "deals",
+            "offer",
+            "offers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "product",
+          "synonyms": [
+            "product",
+            "products"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "option",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "payment",
+          "synonyms": [
+            "payment methods",
+            "payment option"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "EMI",
+          "synonyms": [
+            "EMI",
+            "monthly installment"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "financing",
+          "synonyms": [
+            "financing option"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gift",
+          "synonyms": [
+            "gift",
+            "gifts"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "number",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": [
+            "5",
+            "five"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "profession",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Working",
+          "synonyms": [
+            "job",
+            "service",
+            "working",
+            "working professional"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Business",
+          "synonyms": [
+            "business",
+            "business person",
+            "own business"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "merchant",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "mobile",
+          "synonyms": [
+            "mobile",
+            "phone"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "electricity",
+          "synonyms": [
+            "electric",
+            "electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "name",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Rajesh",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ramesh",
+          "synonyms": [
+            "ramesh"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "account_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "merchant",
+          "synonyms": [
+            "merchant",
+            "merchants"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beneficiary",
+          "synonyms": [
+            "beneficiary",
+            "linked"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wishlist",
+          "synonyms": [
+            "wishlist",
+            "wish list"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "savings",
+          "synonyms": [
+            "sav",
+            "saving",
+            "savings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "preloan",
+          "synonyms": [
+            "pre approved loan",
+            "pre-approved loan",
+            "preapproved loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "persloan",
+          "synonyms": [
+            "personal loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "OMP",
+          "synonyms": [
+            "market place",
+            "OMP",
+            "online market place",
+            "platform",
+            "portal",
+            "website"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "investment",
+          "synonyms": [
+            "demat",
+            "investment",
+            "mutual fund",
+            "mutual funds"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "homeloan",
+          "synonyms": [
+            "home financing",
+            "home loan",
+            "home loans",
+            "housing loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "FD",
+          "synonyms": [
+            "FD",
+            "fixed",
+            "fixed deposit"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "current",
+          "synonyms": [
+            "curr",
+            "current"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CC",
+          "synonyms": [
+            "credit",
+            "credit card"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carloan",
+          "synonyms": [
+            "auto loan",
+            "car loan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "autodebit",
+          "synonyms": [
+            "auto debit",
+            "autopay",
+            "auto pay"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "acknowledgement",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "cancel",
+            "ignore",
+            "ignore that",
+            "nada",
+            "neah",
+            "never mind",
+            "no",
+            "nope"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "alright",
+            "sure",
+            "yeah",
+            "yep",
+            "yes",
+            "yup"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "spending_category",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "education",
+          "synonyms": [
+            "college",
+            "education",
+            "school"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dining",
+          "synonyms": [
+            "dining",
+            "dinner",
+            "food"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grocery",
+          "synonyms": [
+            "groceries",
+            "grocery"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "travel",
+          "synonyms": [
+            "travel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "investment",
+          "synonyms": [
+            "investment",
+            "investments"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "utility",
+          "synonyms": [
+            "utilities",
+            "utility"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fuel",
+          "synonyms": [
+            "fuel"
+          ]
+        },{
+          
+            "type": "synonyms",
+            "value": "account",
+            "synonyms": [
+              "acc",
+              "acc."
+            ]
+          
+        },{
+          
+          "type": "synonyms",
+          "value": "access",
+          "synonyms": [
+            "retrieve",
+            "obtain",
+            "enter"
+          ]
+        
+      },
+      {
+          
+        "type": "synonyms",
+        "value": "recommend",
+        "synonyms": [
+          "suggest",
+          "commend",
+          "propose"
+        ]
+      
+    },
+    {
+          
+      "type": "synonyms",
+      "value": "number",
+      "synonyms": [
+        "no",
+        "pin"
+       
+      ]
+    
+  },
+  {
+          
+    "type": "synonyms",
+    "value": "password",
+    "synonyms": [
+      "pin",
+      "otp",
+      "passcode"
+    ]
+  
+}
+      ]
+    }
+  ]
+}

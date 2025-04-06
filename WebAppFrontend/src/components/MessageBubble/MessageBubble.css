@@ -1,0 +1,111 @@
+.message {
+  display: flex;
+  flex-direction: column;
+}
+
+.message .timestamp {
+  display: flex;
+  justify-content: center;
+  color: #999;
+  font-weight: 600;
+  font-size: 12px;
+  margin: 10px 0px;
+  text-transform: uppercase;
+}
+
+.message .bubble-container {
+  font-size: 90%;
+  display: flex;
+}
+
+.centralise{
+  text-align: center;
+  /* display: flex;  */
+  justify-content: center;
+  align-content: center; 
+  flex-direction: column;
+}
+
+.message.mine .bubble-container {
+  justify-content: flex-end;
+  height: fit-content;
+  /* margin: 0; */
+}
+
+.message.start .bubble-container .bubble {
+  margin-bottom: 0px;
+  height: fit-content;
+  border-top-left-radius: 20px;
+}
+
+.message.end .bubble-container .bubble {
+  border-bottom-left-radius: 20px;
+  /* margin-bottom: 10px; */
+}
+
+.message.mine.start .bubble-container .bubble {
+  /* margin-top: 25px; */
+  border-top-right-radius: 20px;
+}
+
+.message.mine.end .bubble-container .bubble {
+  border-bottom-right-radius: 20px;
+  margin-bottom: 25px;
+}
+
+.message .bubble-container .bubble {
+  margin: 1px 0px;
+  background: #222222;
+  color: azure;
+  padding: 10px 15px;
+  border-radius: 20px;
+  max-width: 55%;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.message.mine .bubble-container .bubble {
+  background: #33DCB6;
+  color: white;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.not-start-exe{
+  margin-left: 50px;
+}
+
+.not-start-cust{
+  margin-right: 50px;
+}
+.feedback-btn {
+  /* width: 100px; */
+  /* width: 50px; */
+  margin: 5px;
+  /* margin-top: 5px; */
+  padding: 6px;
+  background-color: rgb(127, 127, 240);
+  color: white;
+  /* width: 40%;
+  height: 40%; */
+  border-radius: 50%;
+  border: none;
+  /* align-self: center; */
+}
+
+.feedback-btn:hover {
+  opacity: 50%;
+  color: #222222;
+  background-color: rgb(127, 127, 240);
+}

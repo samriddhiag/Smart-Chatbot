@@ -1,0 +1,17 @@
+{
+    "sadness": [
+        "We are sorry for that!", 
+        "We are there to help you!", 
+        "Don't worry!"
+    ], 
+    "anger": [
+        "Sorry for the inconvinience!", 
+        "Apologies!", 
+        "We are apologetic for that"
+    ], 
+    "fear": [
+        "We have got you covered.", 
+        "We are there to help", 
+        "Our customers are our priority"
+    ]
+}

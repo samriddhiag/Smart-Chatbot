@@ -1,0 +1,89 @@
+.assign{
+    display: flex;
+    text-align: center;
+    height: 50px;
+    margin-top:40px;
+    margin-bottom: 50px;
+  }
+  .text-inline {
+      padding: 10px;
+      /* padding-top: 0px; */
+      /* display: flex; */
+      /* align-items: center; */
+      background: white;
+      border-top: 1px solid #ffffff;
+      /* position: fixed; */
+      bottom: 20px;
+      /* margin: 30px; */
+      /* margin-top: 0px; */
+      margin-bottom: 0px;
+      border-radius: 15px;
+      float: left;
+      /* position: fixed; */
+      width: 800px;
+      height: 100%;
+      /* bottom: 0px; */
+    }
+    
+    @supports (backdrop-filter: blur(20px)) {
+      .compose {
+        border: none;
+        /* background-color: rgba(255, 255, 255, 0.8); */
+        backdrop-filter: blur(20px);
+      }
+    }
+    
+    .assign-input {
+      /* flex: 1; */
+      border: none;
+      font-size: 100%;
+      height: 25px;
+      float: left;
+      background: none;
+      width: 100%;
+    }
+    
+    .assign-input::placeholder {
+      opacity: 0.6;
+    }
+  
+    .btn-lg{
+      padding: 10px;
+      color: #eeeef1;
+      
+      /* margin-left: 40px; */
+      margin: 0;
+      border: white;
+      float: left;
+      background-color: #25D9B0;
+      text-align: center;
+      font-size: 100%;
+      position: relative;
+      /* top: 13px; */
+      /* right: 0px; */
+      
+    }
+    .btn-lg:hover {
+      color: grey;
+      opacity: 0.5;
+      background-color: #25D9B0;
+    }
+    .text-sender{
+      /* padding: 20px; */
+      padding-top: 5px;
+      padding-left: 10px;
+      text-align: center;
+    }
+    .btn {
+        background: #fff;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color: #a23b39;
+        cursor: pointer;
+        font-size: 1em;
+        border: 1px solid #a23b39
+      }
+      .btn:hover {
+        color: #fff;
+        background-color: #a70b09
+      }

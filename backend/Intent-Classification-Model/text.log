@@ -1,0 +1,74 @@
+2022-06-11 23:50:00,400:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-11 23:50:00,402:20: * Restarting with stat
+2022-06-11 23:50:05,639:30: * Debugger is active!
+2022-06-11 23:50:05,653:20: * Debugger PIN: 511-862-128
+2022-06-11 23:50:39,950:20:127.0.0.1 - - [11/Jun/2022 23:50:39] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-11 23:50:40,033:20:127.0.0.1 - - [11/Jun/2022 23:50:40] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 07:48:14,833:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-12 07:48:14,840:20: * Restarting with stat
+2022-06-12 07:48:32,931:30: * Debugger is active!
+2022-06-12 07:48:32,966:20: * Debugger PIN: 290-378-678
+2022-06-12 07:48:40,583:20:127.0.0.1 - - [12/Jun/2022 07:48:40] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 07:48:40,677:20:127.0.0.1 - - [12/Jun/2022 07:48:40] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:26:30,390:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-12 09:26:30,413:20: * Restarting with stat
+2022-06-12 09:26:49,496:30: * Debugger is active!
+2022-06-12 09:26:49,518:20: * Debugger PIN: 290-378-678
+2022-06-12 09:28:33,426:20:127.0.0.1 - - [12/Jun/2022 09:28:33] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:28:33,581:20:127.0.0.1 - - [12/Jun/2022 09:28:33] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:31:59,214:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-12 09:31:59,224:20: * Restarting with stat
+2022-06-12 09:32:08,883:30: * Debugger is active!
+2022-06-12 09:32:08,948:20: * Debugger PIN: 511-862-128
+2022-06-12 09:32:45,882:20:127.0.0.1 - - [12/Jun/2022 09:32:45] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:32:45,999:20:127.0.0.1 - - [12/Jun/2022 09:32:45] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:33:38,386:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-12 09:33:38,391:20: * Restarting with stat
+2022-06-12 09:33:47,333:30: * Debugger is active!
+2022-06-12 09:33:47,346:20: * Debugger PIN: 511-862-128
+2022-06-12 09:33:53,803:20:127.0.0.1 - - [12/Jun/2022 09:33:53] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:33:53,910:20:127.0.0.1 - - [12/Jun/2022 09:33:53] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:34:02,928:20: * Detected change in 'C:\\Users\\91911\\Downloads\\git_hub\\TEAM-A6\\backend\\Intent_classification_model\\api.py', reloading
+2022-06-12 09:34:03,283:20: * Restarting with stat
+2022-06-12 09:34:20,253:40:Unable to read from the file ./tokenize1r
+2022-06-12 09:34:20,297:30: * Debugger is active!
+2022-06-12 09:34:20,322:20: * Debugger PIN: 511-862-128
+2022-06-12 09:34:20,529:20:127.0.0.1 - - [12/Jun/2022 09:34:20] "[35m[1mPOST /intent-classification HTTP/1.1[0m" 500 -
+2022-06-12 09:34:20,640:20:127.0.0.1 - - [12/Jun/2022 09:34:20] "[35m[1mPOST /intent-classification HTTP/1.1[0m" 500 -
+2022-06-12 09:40:35,887:20: * Detected change in 'C:\\Users\\91911\\Downloads\\git_hub\\TEAM-A6\\backend\\Intent_classification_model\\api.py', reloading
+2022-06-12 09:40:36,402:20: * Restarting with stat
+2022-06-12 09:41:03,626:20: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-12 09:41:03,626:20: * Restarting with stat
+2022-06-12 09:41:12,631:30: * Debugger is active!
+2022-06-12 09:41:12,640:20: * Debugger PIN: 511-862-128
+2022-06-12 09:42:08,452:20:127.0.0.1 - - [12/Jun/2022 09:42:08] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:42:08,570:20:127.0.0.1 - - [12/Jun/2022 09:42:08] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:16,185:20: * Detected change in 'C:\\Users\\91911\\Downloads\\git_hub\\TEAM-A6\\backend\\Intent_classification_model\\test_api.py', reloading
+2022-06-12 09:44:16,777:20: * Restarting with stat
+2022-06-12 09:44:29,496:30: * Debugger is active!
+2022-06-12 09:44:29,509:20: * Debugger PIN: 511-862-128
+2022-06-12 09:44:40,957:20:127.0.0.1 - - [12/Jun/2022 09:44:40] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,069:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,181:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,323:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,458:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,584:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,720:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,848:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:41,976:20:127.0.0.1 - - [12/Jun/2022 09:44:41] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:42,098:20:127.0.0.1 - - [12/Jun/2022 09:44:42] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:42,226:20:127.0.0.1 - - [12/Jun/2022 09:44:42] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:42,397:20:127.0.0.1 - - [12/Jun/2022 09:44:42] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-12 09:44:42,507:20:127.0.0.1 - - [12/Jun/2022 09:44:42] "POST /intent-classification HTTP/1.1" 200 -
+2022-06-13 11:37:26,095:40:File ./intent_classification.pth has not been found
+2022-06-13 11:37:26,275:20: * Restarting with stat
+2022-06-13 11:37:36,800:40:File ./intent_classification.pth has not been found
+2022-06-13 11:37:36,910:30: * Debugger is active!
+2022-06-13 11:37:36,916:20: * Debugger PIN: 747-378-001
+2022-06-13 11:37:37,272:20: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-06-13 11:38:41,662:40:File ./intent_classification.pth has not been found
+2022-06-13 11:38:41,773:20: * Restarting with stat
+2022-06-13 11:38:50,532:40:File ./intent_classification.pth has not been found
+2022-06-13 11:38:50,663:30: * Debugger is active!
+2022-06-13 11:38:50,683:20: * Debugger PIN: 747-378-001
+2022-06-13 11:38:51,072:20: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
